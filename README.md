@@ -8,7 +8,7 @@
 
 **Gerenciador de downloads e torrents para Windows: baixa mais rápido de servidores lentos ou distantes, pausa e continua de onde parou, e pega os downloads direto do navegador.**
 
-[![Baixar para Windows](https://img.shields.io/badge/Baixar_para_Windows-Light_1.1.1-E8452C?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-Light-1.1.1.msi)
+[![Baixar para Windows](https://img.shields.io/badge/Baixar_para_Windows-Light_1.1.2-E8452C?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-Light-1.1.2.msi)
 [![Extensão Chrome, Edge e Opera](https://img.shields.io/badge/Extens%C3%A3o-Chrome_%7C_Edge_%7C_Opera-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-chrome-0.2.0.zip)
 [![Extensão Firefox](https://img.shields.io/badge/Extens%C3%A3o-Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-firefox-0.2.0.xpi)
 
@@ -57,7 +57,7 @@ Quando o teste termina, o navegador volta a baixar sozinho, normalmente.
 
 ## Download e instalação
 
-1. Baixe o **[`PuxaTudo-Light-1.1.1.msi`](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-Light-1.1.1.msi)**.
+1. Baixe o **[`PuxaTudo-Light-1.1.2.msi`](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-Light-1.1.2.msi)**.
 2. Abra o arquivo. Se aparecer "O Windows protegeu o computador", clique em **Mais informações → Executar assim mesmo**.
    O aviso aparece porque o programa é novo e ainda não tem assinatura digital.
 3. Siga o assistente. Não é preciso instalar o .NET: ele já vem junto.
@@ -81,6 +81,23 @@ O passo a passo de cada navegador está em [COMO-INSTALAR-A-EXTENSAO.txt](downlo
 **Dicas:** segure **Alt** ao clicar para deixar um link com o navegador. No ícone da extensão dá para ligar ou desligar
 cada opção, escolher os tipos de arquivo e um tamanho mínimo.
 
+## Em breve: PuxaTudo Prime
+
+<div align="center">
+<img src="docs/img/icone-prime.png" width="72" alt="Ícone do PuxaTudo Prime">
+</div>
+
+O **PuxaTudo Prime** é a próxima versão do programa, ainda em desenvolvimento. Ele faz tudo o que a Light faz
+(várias conexões, torrents, extensão do navegador, fila, bandeja) com um visual novo:
+
+- painel com gráfico de velocidade, downloads ativos e concluídos;
+- downloads e torrents na mesma lista, em cartões, com filtros;
+- quatro temas (Grafite, Ardósia, Vinho e Papel), escolha de fontes e sons ao concluir;
+- arraste um link, magnet ou arquivo .torrent para a janela e pronto.
+
+<img src="docs/img/prime.png" alt="Janela do PuxaTudo Prime no tema Grafite, com downloads pausados, na fila e concluídos" width="900">
+
+O Prime ainda não está disponível para baixar. Ele vai aparecer aqui quando for lançado.
 ## Privacidade
 
 O PuxaTudo não coleta nem envia dados a nenhum servidor. O endereço do download, a página de origem e os cookies do site

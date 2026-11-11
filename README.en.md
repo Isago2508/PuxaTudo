@@ -8,7 +8,7 @@
 
 **Download and torrent manager for Windows: faster downloads from slow or distant servers, pause and resume where you left off, and grab downloads straight from your browser.**
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-Light_1.1.1-E8452C?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-Light-1.1.1.msi)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-Light_1.1.2-E8452C?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-Light-1.1.2.msi)
 [![Extension for Chrome, Edge and Opera](https://img.shields.io/badge/Extension-Chrome_%7C_Edge_%7C_Opera-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-chrome-0.2.0.zip)
 [![Extension for Firefox](https://img.shields.io/badge/Extension-Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-firefox-0.2.0.xpi)
 
@@ -58,7 +58,7 @@ When the trial ends, your browser simply goes back to downloading on its own.
 
 ## Download and installation
 
-1. Download **[`PuxaTudo-Light-1.1.1.msi`](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-Light-1.1.1.msi)**.
+1. Download **[`PuxaTudo-Light-1.1.2.msi`](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-Light-1.1.2.msi)**.
 2. Open the file. If you see "Windows protected your PC", click **More info → Run anyway**.
    The warning appears because the program is new and does not have a digital signature yet.
 3. Follow the setup wizard. You don't need to install .NET: it is already included.
@@ -86,6 +86,23 @@ turn on **Developer mode** and click **Load unpacked**, choosing the unzipped fo
 **Tips:** hold **Alt** while clicking to leave a link to the browser. In the extension's icon you can turn each option on or off,
 choose the file types and set a minimum size.
 
+## Coming soon: PuxaTudo Prime
+
+<div align="center">
+<img src="docs/img/icone-prime.png" width="72" alt="PuxaTudo Prime icon">
+</div>
+
+**PuxaTudo Prime** is the next version of the program, still in development. It does everything Light does
+(multiple connections, torrents, browser extension, queue, tray) with a brand-new look:
+
+- dashboard with a speed graph, active and finished downloads;
+- downloads and torrents in the same list, as cards, with filters;
+- four themes (Graphite, Slate, Wine and Paper), font choice and sounds on completion;
+- drop a link, magnet or .torrent file onto the window and you are done.
+
+<img src="docs/img/prime.png" alt="PuxaTudo Prime window in the Graphite theme, with paused, queued and finished downloads" width="900">
+
+Prime is not available for download yet. It will show up here when it is released.
 ## Privacy
 
 PuxaTudo does not collect or send data to any server. The download address, the source page and the site's cookies
