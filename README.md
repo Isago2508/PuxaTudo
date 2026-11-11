@@ -1,5 +1,7 @@
 <div align="center">
 
+🇧🇷 **Português** | 🇺🇸 [English](README.en.md)
+
 <img src="docs/img/icone.png" width="96" alt="Ícone do PuxaTudo">
 
 # PuxaTudo
@@ -14,7 +16,7 @@
 ![.NET](https://img.shields.io/badge/.NET-9-512BD4?logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-WinForms-239120?logo=csharp&logoColor=white)
 ![Navegadores](https://img.shields.io/badge/navegadores-Chrome%20%7C%20Edge%20%7C%20Opera%20%7C%20Firefox-555)
-![Idioma](https://img.shields.io/badge/idioma-portugu%C3%AAs-2EA043)
+![Idiomas](https://img.shields.io/badge/idiomas-portugu%C3%AAs%20%7C%20ingl%C3%AAs-2EA043)
 
 <img src="docs/img/janela.png" alt="Janela do PuxaTudo com três downloads em andamento e três concluídos" width="900">
 
@@ -28,6 +30,7 @@ O **PuxaTudo** é um gerenciador de downloads para Windows. Ele divide cada arqu
 o que faz muita diferença quando o servidor é lento ou fica longe (outro país, outro continente).
 Se a internet cair ou o computador desligar, o download continua de onde parou. Com a extensão,
 basta clicar no link do arquivo no navegador: o PuxaTudo assume o download na hora.
+O programa está disponível em **português e inglês**: troque em Configurações → Aparência → Idioma / Language (na primeira vez, ele segue o idioma do Windows).
 
 ## Recursos
 
