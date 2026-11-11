@@ -1,0 +1,35 @@
+PuxaTudo - como instalar a extensão no navegador
+=================================================
+
+A extensão é o que faz o navegador mandar os downloads para o PuxaTudo.
+O PuxaTudo já se apresenta aos navegadores sozinho: só falta colocar a extensão.
+
+CHROME, EDGE, OPERA, BRAVE ou VIVALDI
+  1. Abra o endereço das extensões:
+       Chrome:  chrome://extensions
+       Edge:    edge://extensions
+       Opera:   opera://extensions
+       Brave:   brave://extensions
+  2. Ligue o "Modo do desenvolvedor" (botão no canto da página).
+  3. Clique em "Carregar sem compactação" (ou "Carregar descompactada")
+     e escolha a pasta "chrome" que está aqui ao lado deste arquivo.
+  4. Pronto. Clique no ícone do PuxaTudo na barra do navegador: deve aparecer
+     "Conectado ao PuxaTudo" ou "PuxaTudo instalado".
+  Não apague nem mova esta pasta depois: o navegador usa a extensão direto dela.
+
+FIREFOX
+  O Firefox normal só aceita extensões assinadas pela Mozilla.
+  - Para experimentar: abra about:debugging#/runtime/this-firefox,
+    clique em "Carregar extensão temporária..." e escolha o arquivo
+    "manifest.json" da pasta "firefox" daqui. (Some quando o Firefox fecha.)
+  - Para ficar instalada de vez: o arquivo PuxaTudo-firefox-*.xpi precisa ser
+    assinado no site addons.mozilla.org (grátis, opção "não listada"); depois
+    é só arrastar o .xpi assinado para a janela do Firefox.
+
+USO
+  - Downloads começados no navegador vão para o PuxaTudo automaticamente.
+  - Botão direito num link, imagem ou vídeo: "Baixar com PuxaTudo".
+  - No ícone da extensão dá para desligar a captura, escolher se mostra a
+    janela de confirmação e deixar arquivos pequenos com o navegador.
+  - Se o PuxaTudo não responder, o download continua no próprio navegador
+    e o ícone da extensão mostra um "!" vermelho.
