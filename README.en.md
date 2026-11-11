@@ -4,11 +4,11 @@
 
 <img src="docs/img/icone.png" width="96" alt="PuxaTudo icon">
 
-# PuxaTudo
+# PuxaTudo Light
 
-**Download manager for Windows: faster downloads from slow or distant servers, pause and resume where you left off, and grab downloads straight from your browser.**
+**Download and torrent manager for Windows: faster downloads from slow or distant servers, pause and resume where you left off, and grab downloads straight from your browser.**
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-1.1.0-E8452C?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-1.1.0.msi)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-Light_1.1.1-E8452C?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-Light-1.1.1.msi)
 [![Extension for Chrome, Edge and Opera](https://img.shields.io/badge/Extension-Chrome_%7C_Edge_%7C_Opera-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-chrome-0.2.0.zip)
 [![Extension for Firefox](https://img.shields.io/badge/Extension-Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-firefox-0.2.0.xpi)
 
@@ -58,7 +58,7 @@ When the trial ends, your browser simply goes back to downloading on its own.
 
 ## Download and installation
 
-1. Download **[`PuxaTudo-1.1.0.msi`](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-1.1.0.msi)**.
+1. Download **[`PuxaTudo-Light-1.1.1.msi`](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-Light-1.1.1.msi)**.
 2. Open the file. If you see "Windows protected your PC", click **More info → Run anyway**.
    The warning appears because the program is new and does not have a digital signature yet.
 3. Follow the setup wizard. You don't need to install .NET: it is already included.

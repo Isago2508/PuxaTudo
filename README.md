@@ -4,11 +4,11 @@
 
 <img src="docs/img/icone.png" width="96" alt="Ícone do PuxaTudo">
 
-# PuxaTudo
+# PuxaTudo Light
 
-**Gerenciador de downloads para Windows: baixa mais rápido de servidores lentos ou distantes, pausa e continua de onde parou, e pega os downloads direto do navegador.**
+**Gerenciador de downloads e torrents para Windows: baixa mais rápido de servidores lentos ou distantes, pausa e continua de onde parou, e pega os downloads direto do navegador.**
 
-[![Baixar para Windows](https://img.shields.io/badge/Baixar_para_Windows-1.1.0-E8452C?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-1.1.0.msi)
+[![Baixar para Windows](https://img.shields.io/badge/Baixar_para_Windows-Light_1.1.1-E8452C?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-Light-1.1.1.msi)
 [![Extensão Chrome, Edge e Opera](https://img.shields.io/badge/Extens%C3%A3o-Chrome_%7C_Edge_%7C_Opera-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-chrome-0.2.0.zip)
 [![Extensão Firefox](https://img.shields.io/badge/Extens%C3%A3o-Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-firefox-0.2.0.xpi)
 
@@ -57,7 +57,7 @@ Quando o teste termina, o navegador volta a baixar sozinho, normalmente.
 
 ## Download e instalação
 
-1. Baixe o **[`PuxaTudo-1.1.0.msi`](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-1.1.0.msi)**.
+1. Baixe o **[`PuxaTudo-Light-1.1.1.msi`](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-Light-1.1.1.msi)**.
 2. Abra o arquivo. Se aparecer "O Windows protegeu o computador", clique em **Mais informações → Executar assim mesmo**.
    O aviso aparece porque o programa é novo e ainda não tem assinatura digital.
 3. Siga o assistente. Não é preciso instalar o .NET: ele já vem junto.
