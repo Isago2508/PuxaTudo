@@ -18,7 +18,7 @@
 ![Navegadores](https://img.shields.io/badge/navegadores-Chrome%20%7C%20Edge%20%7C%20Opera%20%7C%20Firefox-555)
 ![Idiomas](https://img.shields.io/badge/idiomas-portugu%C3%AAs%20%7C%20ingl%C3%AAs-2EA043)
 
-<img src="docs/img/janela.png" alt="Janela do PuxaTudo com três downloads em andamento e três concluídos" width="900">
+<img src="docs/img/janela.png" alt="Janela do PuxaTudo Light com três downloads em andamento e três concluídos" width="900">
 
 </div>
 
