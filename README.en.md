@@ -8,15 +8,16 @@
 
 **Download and torrent manager for Windows: faster downloads from slow or distant servers, pause and resume where you left off, and grab downloads straight from your browser.**
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-Light_1.1.2-E8452C?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-Light-1.1.2.msi)
-[![Extension for Chrome, Edge and Opera](https://img.shields.io/badge/Extension-Chrome_%7C_Edge_%7C_Opera-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-chrome-0.2.0.zip)
-[![Extension for Firefox](https://img.shields.io/badge/Extension-Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-firefox-0.2.0.xpi)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-Light_1.1.2-E8452C?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Isago2508/PuxaTudo/releases/download/v1.1.2/PuxaTudo-Light-1.1.2.msi)
+[![Extension for Chrome, Edge and Opera](https://img.shields.io/badge/Extension-Chrome_%7C_Edge_%7C_Opera-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/Isago2508/PuxaTudo/releases/download/v1.1.2/PuxaTudo-chrome-0.2.0.zip)
+[![Extension for Firefox](https://img.shields.io/badge/Extension-Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://github.com/Isago2508/PuxaTudo/releases/download/v1.1.2/PuxaTudo-firefox-0.2.0.xpi)
 
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-9-512BD4?logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-WinForms-239120?logo=csharp&logoColor=white)
 ![Browsers](https://img.shields.io/badge/browsers-Chrome%20%7C%20Edge%20%7C%20Opera%20%7C%20Firefox-555)
 ![Languages](https://img.shields.io/badge/languages-Portuguese%20%7C%20English-2EA043)
+[![Downloads](https://img.shields.io/github/downloads/Isago2508/PuxaTudo/total?label=downloads&color=E8452C&logo=github)](https://github.com/Isago2508/PuxaTudo/releases)
 
 <img src="docs/img/janela-en.png" alt="PuxaTudo Light window in English with three downloads in progress and three finished" width="900">
 
@@ -58,7 +59,7 @@ When the trial ends, your browser simply goes back to downloading on its own.
 
 ## Download and installation
 
-1. Download **[`PuxaTudo-Light-1.1.2.msi`](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-Light-1.1.2.msi)**.
+1. Download **[`PuxaTudo-Light-1.1.2.msi`](https://github.com/Isago2508/PuxaTudo/releases/download/v1.1.2/PuxaTudo-Light-1.1.2.msi)**.
 2. Open the file. If you see "Windows protected your PC", click **More info → Run anyway**.
    The warning appears because the program is new and does not have a digital signature yet.
 3. Follow the setup wizard. You don't need to install .NET: it is already included.
@@ -74,8 +75,8 @@ Until the extension is available in the browser stores, it has to be installed m
 
 | Browser | File |
 | --- | --- |
-| Chrome, Edge, Opera, Brave, Vivaldi | [`PuxaTudo-chrome-0.2.0.zip`](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-chrome-0.2.0.zip) |
-| Firefox | [`PuxaTudo-firefox-0.2.0.xpi`](https://github.com/Isago2508/PuxaTudo/raw/main/downloads/PuxaTudo-firefox-0.2.0.xpi) |
+| Chrome, Edge, Opera, Brave, Vivaldi | [`PuxaTudo-chrome-0.2.0.zip`](https://github.com/Isago2508/PuxaTudo/releases/download/v1.1.2/PuxaTudo-chrome-0.2.0.zip) |
+| Firefox | [`PuxaTudo-firefox-0.2.0.xpi`](https://github.com/Isago2508/PuxaTudo/releases/download/v1.1.2/PuxaTudo-firefox-0.2.0.xpi) |
 
 Step-by-step instructions for each browser are in [COMO-INSTALAR-A-EXTENSAO.txt](downloads/COMO-INSTALAR-A-EXTENSAO.txt) (in Portuguese).
 In short, for Chrome-based browsers: unzip the file, open the extensions page (`chrome://extensions`, `edge://extensions` or `opera://extensions`),
