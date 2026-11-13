@@ -18,7 +18,7 @@
 ![Browsers](https://img.shields.io/badge/browsers-Chrome%20%7C%20Edge%20%7C%20Opera%20%7C%20Firefox-555)
 ![Languages](https://img.shields.io/badge/languages-Portuguese%20%7C%20English-2EA043)
 
-<img src="docs/img/janela.png" alt="PuxaTudo window with three downloads in progress and three completed" width="900">
+<img src="docs/img/janela-en.png" alt="PuxaTudo Light window in English with three downloads in progress and three finished" width="900">
 
 </div>
 
